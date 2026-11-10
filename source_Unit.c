@@ -4,7 +4,7 @@
 	Author:		KPerera
 	Date:		19/03/2025
 	Modified:	None
-	© Fanshawe College, 2025
+	Â© Fanshawe College, 2025
 
 	Description: This program creates a data structure for 3 ADC sensor channels
 				to sample 10 samples in every sencond. Then, calculates the
@@ -784,7 +784,7 @@ void displayCommSen()
 
 /*>>> changeMode: ===========================================================
 Author:		KPerera                                                                                                                                      
-Date:		29/02/2025
+Date:		28/02/2025
 Modified:	KPerera
 Desc:		This function calls and run setOSC4MHz(4), configPorts() and configADC(), 
 			configTMR0() function and sp1Config.
@@ -799,7 +799,7 @@ void changeMode()
 
 /*>>> changeChannel: ===========================================================
 Author:		KPerera                                                                                                                                      
-Date:		29/02/2025
+Date:		28/02/2025
 Modified:	KPerera
 Desc:		This function calls and run setOSC4MHz(4), configPorts() and configADC(), 
 			configTMR0() function and sp1Config.
@@ -819,7 +819,7 @@ void changeChannel()
 
 /*>>> incrementLimit: ===========================================================
 Author:		KPerera                                                                                                                                      
-Date:		29/02/2025
+Date:		28/02/2025
 Modified:	KPerera
 Desc:		This function calls and run setOSC4MHz(4), configPorts() and configADC(), 
 			configTMR0() function and sp1Config.
@@ -841,7 +841,7 @@ void incrementLimit()
 
 /*>>> decrementLimit: ===========================================================
 Author:		KPerera                                                                                                                                      
-Date:		29/02/2025
+Date:		28/02/2025
 Modified:	KPerera
 Desc:		This function calls and run setOSC4MHz(4), configPorts() and configADC(), 
 			configTMR0() function and sp1Config.
